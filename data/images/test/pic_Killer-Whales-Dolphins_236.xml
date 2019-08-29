@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dolphins</folder>
+	<filename>pic_Killer-Whales-Dolphins_236.jpeg</filename>
+	<path>/home/bgalvao/repos/work/whale-tracker-model/data/dataset_topdown/dolphins/pic_Killer-Whales-Dolphins_236.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3008</width>
+		<height>1960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dolphin</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>463</ymin>
+			<xmax>2154</xmax>
+			<ymax>1327</ymax>
+		</bndbox>
+	</object>
+</annotation>

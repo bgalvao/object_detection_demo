@@ -1,0 +1,26 @@
+<annotation>
+	<folder>whales</folder>
+	<filename>w_1015.jpg</filename>
+	<path>/home/bgalvao/repos/work/whale-tracker-model/data/instance_detection/whales/w_1015.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3048</width>
+		<height>2032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>whale</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1505</xmin>
+			<ymin>1</ymin>
+			<xmax>1837</xmax>
+			<ymax>767</ymax>
+		</bndbox>
+	</object>
+</annotation>
