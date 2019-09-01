@@ -3,5 +3,4 @@
 __pycache__
 .vscode/
 models/*
-data/
-output/
+tf_files/
